@@ -1,6 +1,6 @@
 # Getting-and-cleaning-data-week-4-assignment
 
-This code was written as part of the getting-and-cleaning-data-week-4-assignment. The requirements were as follows:
+This code was written as part of the Getting and Cleaning Data Week 4 Assignment. The requirements were as follows:
 
 1. Merge the training and the test sets to create one data set.
 2. Extract only the measurements on the mean and standard deviation for each measurement.
